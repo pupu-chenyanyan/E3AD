@@ -8,9 +8,10 @@
 
 Please note: 
 because the GIF file is large, we uploaded it to https://github.com/pupu-chenyanyan/E3AD/releases/tag/demos; 
-the image shown here is a key frame.
 
-### waiting at a crossroad with red lights
+The image shown here is a key frame.
+
+### Waiting at a crossroad with red lights
 <img width="2402" height="360" alt="aa8d71110151094ff8737fda4eff452e" src="https://github.com/user-attachments/assets/3d6ee202-2e23-49f5-88e8-fcca77e73d51" />
 
 ### Avoiding parked obstacles
