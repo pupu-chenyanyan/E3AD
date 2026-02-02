@@ -5,7 +5,9 @@
 
 ## Visualization across different scenarios and driving maneuvers
 
-Please note: because the GIF file is large, we uploaded it to xxx; the image shown here is a key frame.
+Please note: 
+because the GIF file is large, we uploaded it to https://github.com/pupu-chenyanyan/E3AD/releases/tag/demos; 
+the image shown here is a key frame.
 
 ### waiting at a crossroad with red lights
 <img width="2406" height="364" alt="bd9ed909a3e4e645f003ddac22a859f1" src="https://github.com/user-attachments/assets/e6586f70-a7d8-4990-9610-2ac6ff7b1fc1" />
